@@ -1,3 +1,9 @@
+![image](https://github.com/mytechnotalent/CPBC-NN/blob/main/CPBC-NN.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # CPBC-NN - Country Population By Continent Neural Network (PyTorch)
 
 A minimal PyTorch model to predict continent/region from country population data using a multi-class classification approach.
@@ -607,4 +613,5 @@ Sample predictions (first 10):
   9. conf=0.324 → Africa          (actual: Asia           ) ✗
   10. conf=0.335 → North America   (actual: North America  ) ✓
 ```
+
 
